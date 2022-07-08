@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.fondo{
+    background-image: url(./fondos.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: auto;
+}
+#Saludo{
+    background-color: #c9b8da;
+    font-size: 26px;
+    margin-bottom: 25px;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+.foto{
+    width: 250px;
+    height: 250px;
+    border-radius: 200px;
+    margin: 45px;
+    display: block;
+    position: static;
+}
+#Nombre{
+    text-align: center;
+    margin: 50px;
+    font-family: 'Lucida Sans';
+    font-weight: bold;
+    text-shadow: 10px 7px 10px purple;
+    font-size: 25px;
+
+}
+
+/* Contenedores */
+.contenedor1{
+    text-align: center;
+    margin: auto;
+    width: 1250px;
+    padding: 11px;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+}
+.contenedor2{
+    text-align: center;
+    margin: auto;
+    width: 1250px;
+    padding: 11px;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+}
+/* Contenedo1 */
+.Cprimero{
+
+    width: 306px;
+    height: 380px;
+    float: left;
+    margin: 10px 135px 10px;
+    background-color: #ffeae5;
+    border-style: dotted;
+    border-color: purple;
+    border-radius: 25px;
+    padding: 15px 10px 5px;
+    
+
+}
+.Cprimero1{
+    
+    width: 306px;
+    height: 380px;
+    float: left;
+    margin: 10px 135px 10px;
+    background-color: #ffeae5;
+    border-style: dotted;
+    border-color: purple;
+    border-radius: 25px;
+    padding: 5px 10px 5px;
+    
+}
+.Cprimero2{
+      
+    width: 900px;
+    height: auto;
+    float: left;
+    margin: 15px 150px  15px;
+    background-color: #ffeae5;
+    border-style: dotted;
+    border-color: purple;
+    border-radius: 25px;
+    padding: 10px 10px 10px;
+    
+}
+.titulo{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    color: blue;
+    text-shadow: 10px 7px 10px purple;
+}
+.informacion{
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 25px;
+}
+
